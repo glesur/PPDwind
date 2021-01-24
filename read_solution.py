@@ -3,7 +3,7 @@
 """
 Created on Mon Jan 18 12:02:19 2021
 
-@author: lesurg
+@author: Geoffroy Lesur (geoffroy.lesur@univ-grenoble-alpes.fr)
 """
 import matplotlib.pyplot as plt
 import numpy as np
@@ -18,14 +18,11 @@ else:
     filename="beta=1.0e+05-Am=1-Rm=inf.dat"
 
 
-# time number
-betaref=1e5;
-
 x=np.arange(0.3,10,0.02)
 y=np.arange(-8.0,8.0,0.02)
 
 
-# this function interpolate the spherical self similar field stored
+# this function interpolates the spherical self-similar field stored
 # in (ssCoords,ssFld), at the (r,theta) coordinates, using the self-similar exponent
 # zeta
 def mapSS(ssFld,ssCoords,theta,r,zeta):
