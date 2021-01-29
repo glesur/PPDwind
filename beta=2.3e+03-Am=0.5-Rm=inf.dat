@@ -4,7 +4,7 @@ USE THIS DATA AT YOUR OWN RISK. This data  provided as is, without guarantee of 
 The fields are computed at a spherical radius r=1, and are sampled along the colatitude theta.
 This dataset was computed for plasma beta=2.2508e+03
 
-theta (colatitude)	rho (mass density)	P (thermal press)	 vr (radial velocity)	 vtheta (col velocity)	 vphi (azimuthal velocity)	 Br (radial mag field)	 Btheta (col mag field)	 Bphi (azimuthal mag field)	 Lambda_A (ambipolar number)	 Rm (Ohmic number
+theta (colatitude)	rho (mass density)	P (thermal press)	vr (radial velocity)	vtheta (col velocity)	vphi (azimuthal velocity)	Br (radial mag field)	Btheta (col mag field)	Bphi (azimuthal mag field)	Lambda_A (ambipolar number)	Rm (Ohmic number)
 1.50693700e-01			3.10261500e-04			2.05425200e-05			6.45565300e+00			-1.27248600e+00						1.75531400e+00							5.38702300e-03					-1.06508600e-03						-4.12374100e-02						inf						inf			
 1.52081200e-01			3.07750300e-04			2.01527200e-05			6.41774900e+00			-1.26549400e+00						1.74100900e+00							5.35734500e-03					-1.06098900e-03						-4.11180300e-02						inf						inf			
 1.53468700e-01			3.05808100e-04			1.98200200e-05			6.38361000e+00			-1.26211100e+00						1.72828300e+00							5.32151500e-03					-1.05698000e-03						-4.10552100e-02						inf						inf			
